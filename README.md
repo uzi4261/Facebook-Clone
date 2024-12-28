@@ -18,10 +18,10 @@ Technologies Used
 Screenshots
 
 Home Page
-![Home Page Screenshot](/homepage.png)
+![Home Page Screenshot](homepage.png)
 
 Profile Page
-![Profile Page Screenshot](/profilepage.png)
+![Profile Page Screenshot](profilepage.png)
 
 Installation
 
