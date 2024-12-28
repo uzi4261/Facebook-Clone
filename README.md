@@ -1,29 +1,29 @@
-Facebook Clone
+**Facebook Clone**
 
 A simple Facebook clone built using only HTML and CSS. This project is intended as a practice project to replicate the visual layout and design of Facebook without any backend or dynamic functionality.
 
-Features
+**Features**
 
-- Responsive Layout: Designed to adapt to different screen sizes.
-- Home Page: Includes a mockup of the Facebook homepage.
-- Profile Page: A basic profile page design.
-- Navigation Bar: Functional links and a search bar (non-functional).
-- Footer: Footer with placeholder links.
+- **Responsive Layout:** Designed to adapt to different screen sizes.
+- **Home Page:** Includes a mockup of the Facebook homepage.
+- **Profile Page:** A basic profile page design.
+- **Navigation Bar:** Functional links and a search bar (non-functional).
+- **Footer:** Footer with placeholder links.
 
-Technologies Used
+**Technologies Used**
 
 - HTML5: For the structure of the pages.
 - CSS3: For styling and layout.
 
-Screenshots
+**Screenshots**
 
-Home Page
+**Home Page**
 ![Home Page Screenshot](homepage.png)
 
-Profile Page
+**Profile Page**
 ![Profile Page Screenshot](profilepage.png)
 
-Installation
+**Installation**
 
 1. Clone the repository:
    ```bash
@@ -35,7 +35,7 @@ Installation
    ```
 3. Open `index.html` in your web browser to view the homepage.
 
-Project Structure
+**Project Structure**
 
 ```
 facebook-clone/
@@ -43,11 +43,11 @@ facebook-clone/
 ├── profile.html     # Profile page
 ├── styles/          # CSS folder
 │   └── style.css    # Main CSS file
-├── screenshots/     # Screenshots folder
+├── images/     # Images folder
 └── README.md        # Project documentation
 ```
 
-Contributions
+**Contributions:**
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
 
